@@ -1,0 +1,10 @@
+2022-12-24 03:06:25 [main] INFO  d.g.d.t.t.k.service.MainApplication - Starting MainApplication on hyperspace with PID 9590 (/home/teixeira/r/microservice-demo/twitter-to-kafka-service/target/classes started by teixeira in /home/teixeira/r/microservice-demo)
+2022-12-24 03:06:25 [main] INFO  d.g.d.t.t.k.service.MainApplication - No active profile set, falling back to default profiles: default
+2022-12-24 03:06:25 [main] INFO  d.g.d.t.t.k.service.MainApplication - Started MainApplication in 0.334 seconds (JVM running for 0.681)
+2022-12-24 03:06:25 [main] INFO  d.g.d.t.t.k.service.MainApplication - App starts...
+2022-12-24 03:06:25 [main] INFO  d.g.d.t.t.k.service.MainApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-12-24 03:08:10 [main] INFO  d.g.d.t.t.k.service.MainApplication - Starting MainApplication on hyperspace with PID 9910 (/home/teixeira/r/microservice-demo/twitter-to-kafka-service/target/classes started by teixeira in /home/teixeira/r/microservice-demo)
+2022-12-24 03:08:10 [main] INFO  d.g.d.t.t.k.service.MainApplication - No active profile set, falling back to default profiles: default
+2022-12-24 03:08:10 [main] INFO  d.g.d.t.t.k.service.MainApplication - Started MainApplication in 0.354 seconds (JVM running for 0.715)
+2022-12-24 03:08:10 [main] INFO  d.g.d.t.t.k.service.MainApplication - App starts...
+2022-12-24 03:08:10 [main] INFO  d.g.d.t.t.k.service.MainApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
